@@ -13,4 +13,4 @@ Run pip install tkinter
 To execute the project:
 Run billing system.py
 
-Screenshot/GIF of this project.
+
